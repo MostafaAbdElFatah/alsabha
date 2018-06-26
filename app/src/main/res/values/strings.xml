@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">السبحة</string>
+    <string name="zekarAlertTitle">اختار الذكر</string>
+    <string name="setting">الاعدادات</string>
+    <string-array name="setting_items">
+        <item>تفعيل الصوت</item>
+        <item>تفعيل الاهتزاز</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">alsabha</string>
+    <string name="zekarAlertTitle">Choose</string>
+    <string name="setting">Setting</string>
+    <string-array name="setting_items">
+        <item>Sound</item>
+        <item>Vibration</item>
+    </string-array>
+</resources>
